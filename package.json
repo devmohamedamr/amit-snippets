@@ -1,0 +1,26 @@
+{
+  "name": "amitsnippeTS",
+  "displayName": "amitsnippets",
+  "description": "the simple amit snippets",
+  "publisher": "mohamed amr",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devmohamedamr/amit-snippets"
+  },
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

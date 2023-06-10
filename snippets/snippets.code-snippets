@@ -1,0 +1,22 @@
+{
+    "amit":{
+        "prefix": "amit-title",
+        "body":"Association Of Management and Information Technology",
+        "description": "amit title",
+    },
+    "amit-desc":{
+        "prefix": "amit-desc",
+        "body": "AMIT, Association Of Management and Information Technology, is a rapidly growing company which was established in Egypt from 2011 specialized in embedded systems, software computer science and IT. AMIT is an integration of a group of experienced staff, which provides the work in its ideal shape and meets the highest customer satisfaction",
+        "description" : "amit description"
+    },
+    "amit-ar":{
+        "prefix": "amit-title-ar",
+        "body":"جمعية الإدارة وتكنولوجيا المعلومات",
+        "description": "amit title arabic"
+    },
+    "amit-desc-ar":{
+        "prefix": "amit-desc-ar",
+        "body": "رابطة الإدارة وتكنولوجيا المعلومات ، هي شركة سريعة النمو تأسست في مصر منذ عام 2011 متخصصة في الأنظمة المدمجة وعلوم الكمبيوتر وتكنولوجيا المعلومات.  عبارة عن تكامل لمجموعة من الموظفين ذوي الخبرة ، والذي يوفر العمل في شكله المثالي ويلبي أعلى مستوى من رضا العملاء",
+        "description" : "amit description"
+    },
+}
